@@ -15,6 +15,8 @@ type point struct {
 }
 
 func main() {
+	fmt.Println("Welcome to Week 1 of Golang Training")
+	fmt.Println("===============================================")
 	fmt.Println("Enter the Number of Question you want to implement!")
 	fmt.Println("You have the following Chocies")
 	fmt.Println("2.1 2.2 2.5 3.1 3.2 3.3 3.4 3.5 3.6 4.3 5.0")
